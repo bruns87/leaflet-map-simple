@@ -1,4 +1,12 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Title,Latitude,Address,Longitude,Found Address,Match Quality,Source
+Trinity College,41.745167,"300 Summit St, Hartford CT 06106",-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
+Capital Community College,41.768074,950 Main St Hartford CT 06103,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
+University of Hartford,41.794655,"200 Bloomfield Ave, West Hartford CT 06117",-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Charter Oak State College,41.6882257,"55 Manafort Drive, New Britain CT 06053",-72.7679837,"55 Paul Manafort Dr, New Britain, CT 06053, USA",Partial Match,Google
+Hartford Seminary,41.769394,"77 Sherman St, Hartford CT 06105",-72.70706,"77 SHERMAN ST, HARTFORD, CT, 06105",Exact,US Census
+St. Thomas Seminary,41.80829,"467 Bloomfield Ave, Bloomfield CT 06002",-72.73107,"467 BLOOMFIELD AVE, BLOOMFIELD, CT, 06002",Exact,US Census
+University of Connecticut-Hartford,41.764004,"14 Prospect St, Hartford CT 06103",-72.6723,"14 PROSPECT ST, HARTFORD, CT, 06103",Exact,US Census
+Central Connecticut State University,41.689274,"1615 Stanley St, New Britain CT 06050",-72.77059,"1615 STANLEY ST, NEW BRITAIN, CT, 06053",Match,US Census
+Goodwin College,41.75012,"1 Riverside Drive, East Hartford CT 06118",-72.64288,"1 RIVERSIDE DR, EAST HARTFORD, CT, 06118",Match,US Census
+Manchester Community College,41.7622906,"Great Path, Manchester CT 06040",-72.5670043,"Great Path, Manchester, CT 06040, USA",Match,Google
+University of St. Joseph,41.77874,"1678 Asylum Ave, West Hartford CT 06117",-72.72987,"1678 ASYLUM AVE, WEST HARTFORD, CT, 06117",Exact,US Census
